@@ -3,8 +3,8 @@ I am a backend developer and devops entusiastic from Brazil.
 
 <div>
   <a href="https://github.com/natemacs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natemacs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natemacs&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natemacs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natemacs&layout=compact&langs_count=16&theme=dark"/>
 <div>
 
 ### Probably you can find here about:
@@ -27,9 +27,12 @@ I am a backend developer and devops entusiastic from Brazil.
 
 ### About me:
 
-https://github.com/natemacs
+[<img align="left" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"/>](https://github.com/natemacs)
 
-https://buymeacoffee.com/natemacs
+[<img align="left" width="40px" src="https://user-images.githubusercontent.com/16066404/77041853-a2044100-69e0-11ea-8da6-d64822a2c72a.jpg"/>](https://buymeacoffee.com/natemacs)
+
+
+
 
 
 
