@@ -7,7 +7,7 @@ I am a backend developer and devops entusiastic from Brazil.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natemacs&layout=compact&langs_count=16&theme=dark"/>
 <div>
 
-### Probably you can find here about:
+### You can probably find here:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nate developing PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
