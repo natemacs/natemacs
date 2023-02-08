@@ -1,5 +1,5 @@
 ### Hi, I'm Nathan!
-I am a backend developer and devops entusiastic from Brazil. 
+I am a backend developer and devops enthusiastic from Brazil. 
 
 <div>
   <a href="https://github.com/natemacs">
