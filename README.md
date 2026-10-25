@@ -3,15 +3,11 @@ I am a backend developer and devops enthusiastic from Brazil.
 
 <div>
   <a href="https://github.com/natemacs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natemacs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natemacs&layout=compact&langs_count=16&theme=dark"/>
 <div>
-
-### You can probably find here:
-
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Nate developing PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Nate developing Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Nate developing NextJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Nate developing Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Nate developing on Heroku" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg">
